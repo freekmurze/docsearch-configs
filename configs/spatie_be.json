@@ -2,7 +2,7 @@
   "index_name": "spatie_be",
   "start_urls": [
     {
-      "url": "https://docs.spatie.be/(?P<project>.*?)/(?P<version>.*?)/",
+      "url": "https://spatie.be/docs/(?P<project>.*?)/(?P<version>.*?)/",
       "variables": {
         "version": [
           "v1",
